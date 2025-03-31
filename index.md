@@ -12,7 +12,7 @@ layout: page
 
 <!-- Social icons with Font Awesome -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/giulia-carradori" target="_blank"><i class="fab fa-linkedin" style="font-size: 20px; margin-right: 15px;"></i></a>
+  <a href="https://www.linkedin.com/in/giulia-carradori-436ab6235/" target="_blank"><i class="fab fa-linkedin" style="font-size: 20px; margin-right: 15px;"></i></a>
   <a href="mailto:giulia.carradori@weizmann.ac.il"><i class="fas fa-envelope" style="font-size: 20px; margin-right: 15px;"></i></a>
   <a href="https://github.com/carra99" target="_blank"><i class="fab fa-github" style="font-size: 20px;"></i></a>
 </p>
