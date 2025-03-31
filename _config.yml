@@ -1,3 +1,20 @@
+author:
+  name: "Giulia Carradori"
+  bio: "PhD student at WIS"
+  location: "Rehovot, Israel"
+  email: "giulia.carradori@weizmann.ac.il"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/giulia-carradori"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/carra99"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:giulia.carradori@weizmann.ac.il"
+
+
 url: "https://carra99.github.io"
 remote_theme: "mmistakes/so-simple-theme"
 
