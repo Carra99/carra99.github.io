@@ -1,7 +1,5 @@
 ---
 layout: page
-title: "Giulia Carradori"
-permalink: /
 ---
 
 <!-- Profile Image (centered, circular style) -->
@@ -23,7 +21,7 @@ permalink: /
 
 ## About
 
-Originally from Tuscany, Italy. Currently a PhD student at [WIS](https://www.weizmann.ac.il) in [Ruth Scherz-Shouval lab](https://www.weizmann.ac.il/Biomolecular_Sciences/Scherz).
+Originally from Tuscany, Italy. After completing my bachelor and master degrees in Biotechnology in Italy I moved to Israel to pursue a PhD at [WIS](https://www.weizmann.ac.il) in [Ruth Scherz-Shouval lab](https://www.weizmann.ac.il/Biomolecular_Sciences/Scherz).
 
 ## Outside the lab 
 Addicted to running to escape the troubles of daily life.
