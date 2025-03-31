@@ -4,11 +4,11 @@ layout: page
 
 <!-- Profile Image (centered, circular style) -->
 <p align="center">
-  <img src="/assets/images/profile.jpg" alt="Profile picture" style="border-radius: 50%; width: 150px; margin-bottom: 20px;" />
+  <img src="/assets/images/profile.jpeg" alt="Profile picture" style="border-radius: 50%; width: 150px; margin-bottom: 20px;" />
 </p>
 
 <!-- Name with smaller font size -->
-<h2 style="text-align: center;">Giulia Carradori</h2>
+<h2 style="text-align: center; font-size: 2.2em;">Giulia Carradori</h2>
 
 <!-- Social icons with Font Awesome -->
 <p align="center">
